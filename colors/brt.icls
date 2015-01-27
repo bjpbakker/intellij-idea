@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <scheme name="brt" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -9,7 +8,7 @@
     <option name="ANNOTATIONS_COLOR" value="69cbfe" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="c6c5fe" />
     <option name="CARET_COLOR" value="ffffcc" />
-    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CARET_ROW_COLOR" value="2f2f2f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="c0c0c" />
     <option name="FILESTATUS_ADDED" value="15ff00" />
     <option name="FILESTATUS_MODIFIED" value="a1ff" />
@@ -24,7 +23,7 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="222222" />
     <option name="SELECTED_FOLDING_TREE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="303745" />
+    <option name="SELECTION_BACKGROUND" value="101a45" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="WHITESPACES" value="27232e" />
   </colors>
@@ -92,6 +91,12 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -115,7 +120,6 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffc66" />
-        <option name="BACKGROUND" value="105" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -716,6 +720,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="3e0034" />
+        <option name="ERROR_STRIPE_COLOR" value="3e0034" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1774,6 +1779,11 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -1986,4 +1996,3 @@
     </option>
   </attributes>
 </scheme>
-
